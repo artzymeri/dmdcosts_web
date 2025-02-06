@@ -33,7 +33,7 @@ export default function Header({ variant }) {
             <Div className="cs-main_header_in">
               <Div className="cs-main_header_left">
                 <Link className="cs-site_branding" to="/">
-                  <img style={{filter: 'brightness(100)'}} src="/images/dmd_logo.png" alt="Logo" />
+                  <img style={{filter: 'brightness(10000)'}} src="/images/dmd_logo.png" alt="Logo" />
                 </Link>
               </Div>
               <Div className="cs-main_header_center">
